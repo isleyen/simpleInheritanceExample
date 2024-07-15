@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\hayvan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|solutionrelative:hayvan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\hayvan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|solutionrelative:hayvan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kedi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|solutionrelative:kedi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kedi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|solutionrelative:kedi.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|solutionrelative:kus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kopek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|solutionrelative:kopek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kopek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|solutionrelative:kopek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8968A78-9DE9-4CAF-80FE-0B1A50675E8A}|kal\u0131t\u0131m.vcxproj|solutionrelative:kus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T09:26:53.386Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "kus.h",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kus.h",
+              "RelativeDocumentMoniker": "kus.h",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kus.h",
+              "RelativeToolTip": "kus.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-15T10:21:28.606Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "kopek.h",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kopek.h",
+              "RelativeDocumentMoniker": "kopek.h",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kopek.h",
+              "RelativeToolTip": "kopek.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-15T10:12:07.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "kopek.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kopek.cpp",
+              "RelativeDocumentMoniker": "kopek.cpp",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kopek.cpp",
+              "RelativeToolTip": "kopek.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T10:11:53.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kus.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kus.cpp",
+              "RelativeDocumentMoniker": "kus.cpp",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kus.cpp",
+              "RelativeToolTip": "kus.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T10:21:20.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kedi.h",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kedi.h",
+              "RelativeDocumentMoniker": "kedi.h",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kedi.h",
+              "RelativeToolTip": "kedi.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-15T09:57:41.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kedi.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kedi.cpp",
+              "RelativeDocumentMoniker": "kedi.cpp",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\kedi.cpp",
+              "RelativeToolTip": "kedi.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T09:57:30.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hayvan.h",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\hayvan.h",
+              "RelativeDocumentMoniker": "hayvan.h",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\hayvan.h",
+              "RelativeToolTip": "hayvan.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-15T09:26:38.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hayvan.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\hayvan.cpp",
+              "RelativeDocumentMoniker": "hayvan.cpp",
+              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\kal\u0131t\u0131m\\hayvan.cpp",
+              "RelativeToolTip": "hayvan.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T09:26:28.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
